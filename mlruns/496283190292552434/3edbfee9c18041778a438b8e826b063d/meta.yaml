@@ -1,0 +1,15 @@
+artifact_uri: file:C:/first_data_science_proj/ipl-prediction/mlruns/496283190292552434/3edbfee9c18041778a438b8e826b063d/artifacts
+end_time: 1779883507498
+entry_point_name: ''
+experiment_id: '496283190292552434'
+lifecycle_stage: active
+run_id: 3edbfee9c18041778a438b8e826b063d
+run_name: model1_outcome_classifier
+run_uuid: 3edbfee9c18041778a438b8e826b063d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779883477331
+status: 3
+tags: []
+user_id: Mahesh

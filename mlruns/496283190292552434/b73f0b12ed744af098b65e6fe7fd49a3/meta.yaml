@@ -1,0 +1,14 @@
+artifact_uri: file:C:/first_data_science_proj/ipl-prediction/mlruns/496283190292552434/b73f0b12ed744af098b65e6fe7fd49a3/artifacts
+end_time: 1779883768122
+entry_point_name: ''
+experiment_id: '496283190292552434'
+lifecycle_stage: active
+run_id: b73f0b12ed744af098b65e6fe7fd49a3
+run_name: model2_firstInnings_regressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779883767103
+status: 3
+tags: []
+user_id: Mahesh

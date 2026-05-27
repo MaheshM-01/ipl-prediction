@@ -1,0 +1,14 @@
+artifact_uri: file:C:/first_data_science_proj/ipl-prediction/mlruns/496283190292552434/c1523c20cea344d79a25bc8b173ff4da/artifacts
+end_time: 1779883893213
+entry_point_name: ''
+experiment_id: '496283190292552434'
+lifecycle_stage: active
+run_id: c1523c20cea344d79a25bc8b173ff4da
+run_name: model3_chase_score_prediction
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779883892264
+status: 3
+tags: []
+user_id: Mahesh

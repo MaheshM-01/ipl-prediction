@@ -1,0 +1,8 @@
+artifact_location: file:C:/first_data_science_proj/ipl-prediction/mlruns/198139283788148132
+creation_time: 1779884690489
+experiment_id: '198139283788148132'
+last_update_time: 1779884690489
+lifecycle_stage: active
+name: MLflow Demo
+trace_location: null
+workspace: default

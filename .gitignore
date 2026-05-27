@@ -3,6 +3,26 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+data/
+models/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+
+venv/
+__pycache__/
+.ipynb_checkpoints/
+data/raw/
+models/
+*.pyc
+.DS_Store
+
+# C extensions
+*.so
+
+
+
+
 # C extensions
 *.so
 

@@ -1,0 +1,8 @@
+artifact_location: mlflow-artifacts:/990815594053127087
+creation_time: 1779884738684
+experiment_id: '990815594053127087'
+last_update_time: 1779884738684
+lifecycle_stage: active
+name: 'ipl prediction '
+trace_location: null
+workspace: default
